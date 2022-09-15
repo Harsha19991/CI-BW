@@ -22,7 +22,7 @@
   </properties>
 
   <modules>
-    <module>name</module>
+    <module>job/job</module>
   </modules>
 
   <distributionManagement>
