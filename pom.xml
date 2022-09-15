@@ -22,7 +22,7 @@
   </properties>
 
   <modules>
-    <module></module>
+    <module>name</module>
   </modules>
 
   <distributionManagement>
