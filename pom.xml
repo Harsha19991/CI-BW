@@ -22,7 +22,7 @@
   </properties>
 
   <modules>
-    <module>CI-BW</module>
+    <module>job1</module>
   </modules>
 
   <distributionManagement>
